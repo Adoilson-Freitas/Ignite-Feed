@@ -16,7 +16,7 @@ export function Sidebar() {
           src="https://github.com/Adoilson-Freitas.png"
         />
         <strong>Adoilson Freitas</strong>
-        <span>Web Developer</span>
+        <span>Front-end Developer</span>
       </div>
 
       <footer>
