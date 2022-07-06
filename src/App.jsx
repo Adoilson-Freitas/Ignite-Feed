@@ -1,7 +1,12 @@
+import { Header } from "./components/Header";
+
+import "./styles/global.css";
+
 export function App() {
   return (
     <div>
-      <h1>Ignite Feed</h1>
+      <Header />
+      <h1>Home</h1>
     </div>
   );
 }
